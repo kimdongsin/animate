@@ -1,1 +1,1 @@
-# animate
+# animate 실습
